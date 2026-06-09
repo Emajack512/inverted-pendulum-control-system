@@ -72,9 +72,10 @@ inverted-pendulum-control-system/
 ├── Firmware/
 │
 ├── images/
-│   ├── open_loop/
-│   ├── closed_loop/
-│   └── presentation_figures/
+│   └── 3D_model/
+│   └── Open loop/
+│   └── Close loop/
+│   └── state variables diagram/
 │
 ├── part_1_open_loop_analysis/
 │   ├── modeling/
@@ -91,8 +92,6 @@ inverted-pendulum-control-system/
 │   └── bibliography.md
 │
 └── simulations/
-    ├── 2d_animation/
-    ├── 3d_animation/
     └── gifs/
 ```
 
