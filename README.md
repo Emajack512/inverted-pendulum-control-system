@@ -4,6 +4,10 @@ This repository contains the modeling, analysis, controller design and simulatio
 
 ## Project Overview
 
+<p align="center">
+  <img src="images/3D%20model/Pend_inv_img_2.png" width="750">
+</p>
+
 The inverted pendulum is a naturally unstable mechanical system widely used as a benchmark problem in control engineering.
 
 The objective of this project is to obtain a mathematical model of the system, analyze its uncompensated behavior and design a control strategy capable of improving its dynamic response.
